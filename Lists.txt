@@ -1,0 +1,5 @@
+9780141319131,Percy Jackson and the Lightning Thief,Rick Riordan
+9780545010221,Harry Potter and the Deathly Hallows,J.K. Rowling
+9780307582881,The Maze Runner,James Dashner
+9781846071126,The Wizard of Oz,L.Frank Baum
+9780563528883,The Lord of the Rings,J.R.R.Tolkien
